@@ -74,8 +74,8 @@ This repository containsPython code for studying how the choice of robot traject
 
 *Yang, F., Yin, W., Björkman, M., Peters, C., "Impact of trajectory generation methods on viewer perception of robot approaching group behaviors", RO-MAN 2020.*
 
-<div> <img src="impact-image1.png" width="350">
-<img src="impact-image2.png" width="220"> </div>
+<div> <img src="impact-image1.jpg" width="350">
+<img src="impact-image2.jpg" width="220"> </div>
 
 
 ### Graph-based Normalizing Flow for Human Motion Generation and Reconstruction [[link](https://github.com/EnTimeMent/Graph-Generative-Flow)]
