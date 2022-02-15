@@ -21,7 +21,7 @@ Neural network architectures designed for automatic detection of affective behav
 
 *Wang, Chongyang, Min Peng, Temitayo A. Olugbade, Nicholas D. Lane, Amanda C. De C. Williams, and Nadia Bianchi-Berthouze. "[Learning temporal and bodily attention in protective movement behavior detection.](https://ieeexplore.ieee.org/abstract/document/8925084/)" In 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos(ACIIW), pp. 324-330. IEEE, 2019.*
 
-<img src="https://github.com/EnTimeMent/BANet/blob/main/ACII_1.png" width="450">
+<img src="ACII_1.jpg" width="450">
 
 ### P(l)aying Attention sonification application [[link](https://github.com/EnTimeMent/Playing-Attention)]
 
