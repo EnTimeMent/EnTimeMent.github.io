@@ -74,8 +74,8 @@ This repository containsPython code for studying how the choice of robot traject
 
 *Yang, F., Yin, W., Björkman, M., Peters, C., "Impact of trajectory generation methods on viewer perception of robot approaching group behaviors", RO-MAN 2020.*
 
-<div> <img src="https://github.com/YIN95/Impact-of-Trajectory-Generation-Methods/blob/master/media/image1.png" width="350">
-<img src="https://github.com/EnTimeMent/Impact-of-Trajectory-Generation-Methods/blob/master/media/image2.png" width="220"> </div>
+<div> <img src="impact-image1.png" width="350">
+<img src="impact-image2.png" width="220"> </div>
 
 
 ### Graph-based Normalizing Flow for Human Motion Generation and Reconstruction [[link](https://github.com/EnTimeMent/Graph-Generative-Flow)]
@@ -84,7 +84,7 @@ We use a spatial convolutional network in the affine coupling layer to extract s
 
 *Yin, W., Yin, H., Kragic, D., Björkman, M., "[Graph-based Normalizing Flow for Human Motion Generation and Reconstruction](https://ui.adsabs.harvard.edu/abs/2021arXiv210403020Y/abstract)", RO-MAN 2021.*
 
-<img src="https://github.com/EnTimeMent/Graph-Generative-Flow/blob/main/media/image17.png" width="800">
+<img src="graph-image17.jpg" width="800">
 
 ### EmoSync: human multi-scale group synchronisationduring mirror game of four people [[link](https://github.com/EnTimeMent/EMOSYNC_Behavioural_sync), [link](https://github.com/EnTimeMent/EMOSYNC_EyeGaze)]
 
