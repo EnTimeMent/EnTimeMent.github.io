@@ -1,6 +1,3 @@
-EnTimeMent
-==========
-
 # EnTimeMent - EU Horizon 2020 FET PROACTIVE project (2019-2022)
 ENtrainment & synchronization at multiple TIME scales in the MENTal foundations of expressive gesture
 
