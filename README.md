@@ -58,7 +58,7 @@ Both files are shared as a jupyter notebooks since this should make it easier to
 This repository comprises a Colab script an associated python library to support the use of pose estimation algorithms with video recordings of Indian music performances. Post-processing options include the selection of data points, interpolation of missing data and smoothing. The repository forms part of a Open Science Framework corpus alongside input videos, saved pose estimation data and output overlaid (video plus skeleton) videos. See: 
 
 * *Clayton, M., Li, J., Clarke, A. R., Weinzierl, M., Leante, L. & Tarsitani, S. (2021). "[Hindustani raga and singer classification using pose estimation.](https://doi.org/10.17605/OSF.IO/T5BWA)" OSF. October 14.* , 
-* *M., Li, J., Clarke, A. R., and Weinzierl, M. (in submission). "Hindustani raga and singer classification using 2D and 3D pose estimation from video recordings."*
+<!-- * *M., Li, J., Clarke, A. R., and Weinzierl, M. (in submission). "Hindustani raga and singer classification using 2D and 3D pose estimation from video recordings."* -->
 
 ### Group behavior recognition using attention-and graph-based neural networks [[link](https://github.com/EnTimeMent/Group-Behavior-Recognition)]
 
@@ -107,10 +107,10 @@ This repository contains Python code for the analysis of human movement in dyad 
 
 Part of the code includes the algorithms tested in the analysis;the preprocessing techniques followed.
 
-*D’Amato, V., Oneto, L., Camurri, A., Anguita, D. et al. (in submission) "The Importance of Multiple Temporal Scales in Motion Recognition: when Shallow Model can Support Deep Multi Scale Models.", (2021).*
+<!-- *D’Amato, V., Oneto, L., Camurri, A., Anguita, D. et al. (in submission) "The Importance of Multiple Temporal Scales in Motion Recognition: when Shallow Model can Support Deep Multi Scale Models.", (2021).* -->
 
 ### Ellipses: The Importance of Multiple Temporal Scales in Motion Recognition: from Shallow to Deep Multi Scale Models [[link](https://github.com/EnTimeMent/Ellipses)]
 
 This repository contains Python code for the analysis of human movement in individual actions where people draw an ellipse under different conditions (speeds and hands).The scope is to automatically detect, just based on graphics tablet data, the person who drawn an ellipse. Part of the code includes the algorithms tested in the analysis; the preprocessing techniques followed.
 
-*D’Amato, V., Oneto, L., Camurri, A., Anguita, D., Zarandi, Z., Fadiga, L., D’Ausilio, A., Pozzo, T.. et al. (in submission) "The Importance of Multiple Temporal Scales in Motion Recognition: from Shallow to Deep Multi Scale Models." (2021).*
+<!-- *D’Amato, V., Oneto, L., Camurri, A., Anguita, D., Zarandi, Z., Fadiga, L., D’Ausilio, A., Pozzo, T.. et al. (in submission) "The Importance of Multiple Temporal Scales in Motion Recognition: from Shallow to Deep Multi Scale Models." (2021).* -->
