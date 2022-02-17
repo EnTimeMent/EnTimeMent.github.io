@@ -1,5 +1,6 @@
 # EnTimeMent - EU Horizon 2020 FET PROACTIVE project (2019-2022)
-ENtrainment & synchronization at multiple TIME scales in the MENTal foundations of expressive gesture
+
+This is a summary of software repositories released from the EnTimeMent project to the community.
 
 ### Software libraries for the study of the origin of movement [[link](https://github.com/EnTimeMent/Origin-of-Movement)]
 
