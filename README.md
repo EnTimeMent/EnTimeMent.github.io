@@ -63,6 +63,8 @@ This repository comprises a Colab script an associated python library to support
 
 ![](NIR_ABh_Puriya_Overlay_StereoMix_short.gif)
 
+Example video with the musicians Anupama Bhagwat (sitar) and Gurdain Rayatt (tabla)
+
 ### Group behavior recognition using attention-and graph-based neural networks [[link](https://github.com/EnTimeMent/Group-Behavior-Recognition)]
 
 This repository contains Python code for analysing group behaviours in the case of conversational groups, where an approaching participant is trying to engage in an already ongoing discussion in a group with three members. From the analysis it is predicted whether the group will either include or disregard the newcomer. Two different kinds of neural network-based models are included as part of the code, one based on attention networks and another based on multi-spatial-temporal graph convolution networks. See:
