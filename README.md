@@ -61,6 +61,8 @@ This repository comprises a Colab script an associated python library to support
 * *Clayton, M., Li, J., Clarke, A. R., Weinzierl, M., Leante, L. & Tarsitani, S. (2021). "[Hindustani raga and singer classification using pose estimation.](https://doi.org/10.17605/OSF.IO/T5BWA)" OSF. October 14.* , 
 <!-- * *M., Li, J., Clarke, A. R., and Weinzierl, M. (in submission). "Hindustani raga and singer classification using 2D and 3D pose estimation from video recordings."* -->
 
+![](NIR_ABh_Puriya_Overlay_StereoMix_short.gif)
+
 ### Group behavior recognition using attention-and graph-based neural networks [[link](https://github.com/EnTimeMent/Group-Behavior-Recognition)]
 
 This repository contains Python code for analysing group behaviours in the case of conversational groups, where an approaching participant is trying to engage in an already ongoing discussion in a group with three members. From the analysis it is predicted whether the group will either include or disregard the newcomer. Two different kinds of neural network-based models are included as part of the code, one based on attention networks and another based on multi-spatial-temporal graph convolution networks. See:
