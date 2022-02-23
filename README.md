@@ -65,6 +65,10 @@ This repository comprises a Colab script an associated python library to support
 
 Example video with the musicians Anupama Bhagwat (sitar) and Gurdain Rayatt (tabla)
 
+### onsetsync: Analysis and Visualisation of Synchronisation of Music Onset Data [[link](https://github.com/EnTimeMent/onsetsync)]
+
+This is a R package for musical dynamics involving synchrony. There are functions for common operations such as adding isochronous beats based on metrical structure, adding annotations, calculating classic measures of synchrony between two performers, and assessing periodicity of the onsets, and visualising synchrony across cycles, time, or another property.
+
 ### Group behavior recognition using attention-and graph-based neural networks [[link](https://github.com/EnTimeMent/Group-Behavior-Recognition)]
 
 This repository contains Python code for analysing group behaviours in the case of conversational groups, where an approaching participant is trying to engage in an already ongoing discussion in a group with three members. From the analysis it is predicted whether the group will either include or disregard the newcomer. Two different kinds of neural network-based models are included as part of the code, one based on attention networks and another based on multi-spatial-temporal graph convolution networks. See:
